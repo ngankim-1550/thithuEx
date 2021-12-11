@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/image_recycleview_shape"/>
+    <item android:drawable="@drawable/ca_phe"
+        android:height="700dp" />
+
+</layer-list>
